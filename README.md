@@ -38,5 +38,5 @@ The labels of each face image is embedded in the file name, formated like [age]_
 
 ##OpenCV 
 
-Here video frames will act as inputs in the model to display the age of the face. 
+Here video frames will act as inputs in the model to predict and display the age of the person on the camera. 
 
