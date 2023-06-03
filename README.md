@@ -4,6 +4,7 @@ CNN Model to detect Age from camera using OpenCV
 ### DataSet
 UTKFace Dataset has more than 20k images with all age groups. Here we have used 11.9K cropped images with 200x200 resolution. 
 Here is the link to the dataset- https://susanqq.github.io/UTKFace/
+<div>or Kaggle: https://www.kaggle.com/datasets/avantibuche/11960-images-with-117-age-group-labels</div>
 
 ### Labels
 The labels of each face image is embedded in the file name, formated like [age]_[gender]_[race]_[date&time].jpg
