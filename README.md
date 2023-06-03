@@ -9,7 +9,7 @@ Here is the link to the dataset- https://susanqq.github.io/UTKFace/
 The labels of each face image is embedded in the file name, formated like [age]_[gender]_[race]_[date&time].jpg
 <div>Total input images: 11960</div>
 <div>Total labels: 117</div>
-
+<div></div>
 <div>[age] is an integer from 0 to 116, indicating the age</div>
 <div>[gender] is either 0 (male) or 1 (female)</div>
 <div>[race] is an integer from 0 to 4, denoting White, Black, Asian, Indian, and Others (like Hispanic, Latino, Middle Eastern).</div>
