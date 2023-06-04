@@ -32,11 +32,11 @@ The labels of each face image is embedded in the file name, formated like [age]_
 2. Optimizer = adam
 3. Loss function = categorical_crossentropy
 4. Batch Size = 100
-5. Epochs = 10
-6. Loss: 0.3510
-7. Accuracy: 0.9178
+5. Epochs = 11
+6. Loss: 0.2553
+7. Accuracy: 0.9531
 
-##OpenCV 
+### OpenCV 
 
 Here video frames will act as inputs in the model to predict and display the age of the person on the camera. 
 
